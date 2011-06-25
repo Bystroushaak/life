@@ -1,0 +1,10 @@
+Primitive implementation of life in tcc for Bellards javascript computer. 
+It was written completely inside, using only builtin VI.
+
+Usage is simple, just copy code from 'life.sh' into field and type:
+
+    sh /dev/clipboard
+
+If you want to see source, just press ctrl+c and go to '/root/life'.
+
+                                       Bystroushaak (bystrousak@kitakitsune.org)
