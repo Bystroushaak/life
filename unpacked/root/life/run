@@ -1,0 +1,3 @@
+#! /usr/bin/env sh
+tcc ../libs/cui.c -run life.c
+
